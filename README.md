@@ -1,66 +1,41 @@
 # 2025 MCM Mathematical Contest in Modeling (MCM)
 
-## Official Website
-[COMAP MCM Official Website](https://www.contest.comap.com/undergraduate/contests/)
+## Overview
+This repository contains our work for the Mathematical Contest in Modeling  (MCM) 2025. The project focuses on analyzing and modeling  Olympic-related datasets to address the assigned problem.
 
+ **Google Colab Notebook for modeling and analysis**  
+ [Shared Google Drive Folder](https://drive.google.com/drive/folders/1l5XClt-Y3wC6nGcHPvl2qC5Na8WL51aJ?usp=drive_link)  
+ 
 ##  Contest Timeline (EST)
 - **Registration Deadline**: Before **3:00 PM** on **Thursday, January 23, 2025**  
 - **Contest Starts**: **5:00 PM** on **Thursday, January 23, 2025**  
 - **Contest Ends**: **8:00 PM** on **Monday, January 27, 2025**  
 - **Solution Report Deadline**: **9:00 PM** on **Monday, January 27, 2025**  
 - **Contest Results Announced**: On or before **May 31, 2025**  
-
 ---
 
-##  Contest Resources
+## Team Members
+| Name            | Email            | Role                                  |
+| --------------- | ---------------- | ------------------------------------- |
+| **Jiaye Liu**   | jiayel7@uci.edu  | Mathematical Modeling & Data Analysis |
+| **Yuquan Yang** | yuquany1@uci.edu | Data Preprocessing                    |
+| **Yufan Ding**  | yufand6@uci.edu  | Paper Writing                         |
+---
 
+##  Work Schedule
+| Date       | Task                                   |
+| ---------- | -------------------------------------- |
+| **Jan 23** | Problem Analysis & Background Research |
+| **Jan 24** | Data Preparation & Initial Modeling    |
+| **Jan 25** | Model Optimization & Results Analysis  |
+| **Jan 26** | Paper Writing & Code Finalization      |
+| **Jan 27** | Final Review & Submission              |
+---
+##  Contest Resources
 ### **Problem Statement**
 Our team has selected:  
  **Problem C: Models for Olympic Medal Tables**  
-
  **[2025_MCM_Problem_C.pdf](./2025_MCM_Problem_C.pdf)** (Full problem description)
-
-## Overview
-
-This repository contains our work for the Mathematical Contest in Modeling  (MCM) 2025. The project focuses on analyzing and modeling  Olympic-related datasets to address the assigned problem.
-
-## Datasets
-
-### 1. **Athletes Data** (`summerOly_athletes.csv`)
-
-Contains information about athletes, including:
-
-- Name
-- Sex
-- Country (NOC)
-- Year of participation
-- City of participation
-- Sport and Event
-- Medal information
-
-### 2. **Hosts Data** (`summerOly_hosts.csv`)
-
-Contains details of Olympic host cities, including:
-
-- Year of the games
-- Host country and city
-
-### 3. **Medal Counts Data** (`summerOly_medal_counts.csv`)
-
-Contains data on the number of medals won by each country:
-
-- Country (NOC)
-- Gold, Silver, and Bronze medal counts
-
-### 4. **Programs Data** (`summerOly_programs.csv`)
-
-Contains details of Olympic events and programs:
-
-- Year of the games
-- Sport and Event details
-
- **Google Colab Notebook for modeling and analysis**  
- [Shared Google Drive Folder](https://drive.google.com/drive/folders/1l5XClt-Y3wC6nGcHPvl2qC5Na8WL51aJ?usp=drive_link)  
 
 ### **Modeling Approach**
  **Main Goals:**
@@ -87,27 +62,5 @@ Contains details of Olympic events and programs:
 
 ---
 
-## Team Members
-
-| Name            | Email            | Role                                  |
-| --------------- | ---------------- | ------------------------------------- |
-| **Jiaye Liu**   | jiayel7@uci.edu  | Mathematical Modeling & Data Analysis |
-| **Yuquan Yang** | yuquany1@uci.edu | Data Preprocessing                    |
-| **Yufan Ding**  | yufand6@uci.edu  | Paper Writing                         |
-
----
-
-##  Work Schedule
-
-| Date       | Task                                   |
-| ---------- | -------------------------------------- |
-| **Jan 23** | Problem Analysis & Background Research |
-| **Jan 24** | Data Preparation & Initial Modeling    |
-| **Jan 25** | Model Optimization & Results Analysis  |
-| **Jan 26** | Paper Writing & Code Finalization      |
-| **Jan 27** | Final Review & Submission              |
-
----
-
-##  Contact & Support
+##  Official Website
 For any inquiries, visit the **[COMAP Official Website](https://www.contest.comap.com/undergraduate/contests/)**.
