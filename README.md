@@ -17,7 +17,7 @@ This repository contains our work for the Mathematical Contest in Modeling  (MCM
 ## Team Members
 | Name            | Email            | Role                                  |
 | --------------- | ---------------- | ------------------------------------- |
-| **Jiaye Liu**   | jiayel7@uci.edu  | Mathematical Modeling & Data Analysis |
+| **Jiaye Liu**   | jiayel7@uci.edu  | Feature Engineering & Data Analysis & Mathematical Modeling|
 | **Yuquan Yang** | yuquany1@uci.edu | Data Preprocessing                    |
 | **Yufan Ding**  | yufand6@uci.edu  | Paper Writing                         |
 ---
